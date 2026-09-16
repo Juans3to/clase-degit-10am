@@ -12,5 +12,6 @@ public class ClaseDegit10am {
 
     public static void main(String[] args) {
         System.out.println("Hello World - Probando!");
+        System.out.println("Hello World - Probando!");
     }
 }
